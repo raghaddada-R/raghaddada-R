@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Raghad
 
-<!--
-**raghaddada-R/raghaddada-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at the Technical Institute of Computing (TIC) at the Syrian Virtual University (SVU).
 
-Here are some ideas to get you started:
+I'm exploring the world of technology and building my knowledge in computing and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously learning, improving my technical skills, and exploring new areas in IT.
+
+I believe in learning by doing and turning ideas into practical projects.
+
+This profile is where I'll share my learning journey, projects, and experiences along the way.
+
+Always learning. Always growing.
